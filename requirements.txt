@@ -1,0 +1,6 @@
+List of the libraries i used in this project
+--> Numpy
+--> Pandas
+--> Matplotlib
+--> Seaborn
+--> Scikit-learn
