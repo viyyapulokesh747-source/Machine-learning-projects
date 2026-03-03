@@ -1,4 +1,4 @@
-# Machine-learning-projects
+# Housing price prediction in Regression 
 Machine learning experiments using sklearn and supervised algorithms
 # Housing Price Prediction
 
